@@ -1,0 +1,2 @@
+.fade-enter{transform:translateX(100%)}.fade-enter-active{transition:transform .2s ease-in-out}.fade-enter-active,.fade-exit{transform:translateX(0)}.fade-exit-active{transform:translateX(-100%);transition:transform .2s ease-in-out}
+/*# sourceMappingURL=main.55617acc.css.map*/
