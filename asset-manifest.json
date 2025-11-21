@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/ChaJuick-Portfolo/static/css/main.55617acc.css",
-    "main.js": "/ChaJuick-Portfolo/static/js/main.2c5b7830.js",
+    "main.js": "/ChaJuick-Portfolo/static/js/main.0837cd98.js",
     "static/js/453.ac9b7e2a.chunk.js": "/ChaJuick-Portfolo/static/js/453.ac9b7e2a.chunk.js",
+    "static/media/bck.png": "/ChaJuick-Portfolo/static/media/bck.5d7818a76e0dd2e97c83.png",
     "static/media/desktop_greeting.png": "/ChaJuick-Portfolo/static/media/desktop_greeting.6a136dc27c4905fd4875.png",
     "static/media/desktop_index.png": "/ChaJuick-Portfolo/static/media/desktop_index.e5e5643ba167c8bfb6da.png",
     "static/media/desktop_guide.png": "/ChaJuick-Portfolo/static/media/desktop_guide.fbf2baa4387fd35b4691.png",
@@ -49,11 +50,11 @@
     "static/media/intro.png": "/ChaJuick-Portfolo/static/media/intro.6de69839b3b00b7f4ba3.png",
     "index.html": "/ChaJuick-Portfolo/index.html",
     "main.55617acc.css.map": "/ChaJuick-Portfolo/static/css/main.55617acc.css.map",
-    "main.2c5b7830.js.map": "/ChaJuick-Portfolo/static/js/main.2c5b7830.js.map",
+    "main.0837cd98.js.map": "/ChaJuick-Portfolo/static/js/main.0837cd98.js.map",
     "453.ac9b7e2a.chunk.js.map": "/ChaJuick-Portfolo/static/js/453.ac9b7e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55617acc.css",
-    "static/js/main.2c5b7830.js"
+    "static/js/main.0837cd98.js"
   ]
 }
